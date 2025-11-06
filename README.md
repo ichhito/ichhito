@@ -17,10 +17,15 @@
 ## 📚 Personal projects:
 - [UVaTraficoBot (WIP)](https://github.com/ichhito/UVaTraficoBot)
   - Telegram bot that stores and displays information about car accessibility to the University of Valladolid, based on user-reported data
- 
+
 ---
 ## ☎️ Get in touch
 - [Linkedin](https://www.linkedin.com/in/ichiro-hitomi-619421205/)
+
+---
+## 📊 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichhito
+)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ichhito/ichhito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
