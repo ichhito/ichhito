@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Ichiro!
+
+- 🎓 Computer Engineering student at **UVa** (University of Valladolid)
+- 📍 Based in **Spain**
+- 🌐 I speak **English**, **Spanish**, and **Japanese**
+- 💼 Currently looking for **internships**
+
 
 <!--
 **ichhito/ichhito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
