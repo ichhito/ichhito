@@ -1,47 +1,52 @@
+<div align="center">
+
 # Hi there 👋 I'm Ichiro!
-![image](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
----
-- 🎓 Computer Engineering student at **UVa** (University of Valladolid)
-- 📍 Based in **Spain**
-- 🌐 I speak **English**, **Spanish**, and **Japanese**
----
-## 💻 Tech that I'm familiar with:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,fastapi,photoshop,mysql,postgresql,eclipse,vscode,notepad" />
-  </a>
-</p>
 
-## 📚 Projects:
-- 🏋️‍♀️[FitRevolution Web](https://github.com/ichhito/FitCommune-Web)
-  - Platform for tracking physical activity and diet while fostering social interaction through shared routines. Built with Vue.js, FastAPI and PostgreSQL.
-- 🚙[UVaTraficoBot (WIP)](https://github.com/ichhito/UVaTraficoBot)
-  - Telegram bot that stores and displays information about car accessibility to the University of Valladolid, based on user-reported data. Built with Python and MySQL.
-- 🀄[Riichi-Pucela (WIP)](https://github.com/ichhito/riichi-pucela-website)
-  - Website for Riichi-Pucela, designed to teach Riichi Mahjong for new players. Built with HTML and CSS.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ichiro-hitomi-619421205/)
+
+🎓 Computer Engineering student at **UVa** (University of Valladolid)
+📍  Based in **Spain**
+🌐 I speak **English**🇬🇧, **Spanish**🇪🇸, and **Japanese**🇯🇵
 
 ---
-## ☎️ Get in touch
-- [Linkedin](https://www.linkedin.com/in/ichiro-hitomi-619421205/)
+
+### 💻 Tech Stack
+
+| Category | Tech |
+| :--- | :--- |
+| **Languages** | ![C](https://skillicons.dev/icons?i=c) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) |
+| **Frontend** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Vue](https://skillicons.dev/icons?i=vue) |
+| **Backend & DB** | ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Postgres](https://skillicons.dev/icons?i=postgres) |
+| **Tools** | ![VSCode](https://skillicons.dev/icons?i=vscode) ![Photoshop](https://skillicons.dev/icons?i=ps) ![Git](https://skillicons.dev/icons?i=git) |
+
+</div>
 
 ---
-## 📊 Stats
+
+## 📚 Projects
+
+### 🏋️‍♀️ [FitRevolution Web](https://github.com/ichhito/FitCommune-Web)
+> **Tech:** `Vue.js` `FastAPI` `PostgreSQL`
+>
+> Platform for tracking physical activity and diet while fostering social interaction through shared routines. Built with Vue.js, FastAPI and PostgreSQL.
+
+### 🚙 [UVaTraficoBot (WIP)](https://github.com/ichhito/UVaTraficoBot)
+> **Tech:** `Python` `MySQL` `Telegram API`
+>
+> Telegram bot that stores and displays information about car accessibility to the University of Valladolid, based on user-reported data. Built with Python and MySQL.
+
+### 🀄 [Riichi-Pucela (WIP)](https://github.com/ichhito/riichi-pucela-website)
+> **Tech:** `HTML` `CSS`
+>
+> Website for Riichi-Pucela, designed to teach Riichi Mahjong for new players. Built with HTML and CSS.
+
+---
+
+<div align="center">
+
+## 📊 Github Stats
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ichhito&theme=blueberry&count_private=true&hide_border=true&line_height=20)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichhito&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 
-
-
-<!--
-**ichhito/ichhito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
