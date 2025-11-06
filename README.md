@@ -15,8 +15,10 @@
 - SQL: MySQL, Postgre SQL
 ---
 ## 📚 Personal projects:
-- [UVaTraficoBot (WIP)](https://github.com/ichhito/UVaTraficoBot)
+- 🚙[UVaTraficoBot (WIP)](https://github.com/ichhito/UVaTraficoBot)
   - Telegram bot that stores and displays information about car accessibility to the University of Valladolid, based on user-reported data
+- 🀄[Riichi-Pucela (WIP)](https://github.com/ichhito/riichi-pucela-website)
+  - Website for Riichi-Pucela, designed to teach Riichi Mahjong for new players
 
 ---
 ## ☎️ Get in touch
