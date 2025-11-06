@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm Ichiro!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Ichiro%F0%9F%98%83)](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ichiro-hitomi-619421205/)
 
