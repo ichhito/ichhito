@@ -26,7 +26,10 @@
 
 ---
 ## 📊 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichhito&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ichhito&theme=blueberry&count_private=true&hide_border=true&line_height=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichhito&layout=compact&theme=blueberry&count_private=true&hide_border=true)
+
+
 
 <!--
 **ichhito/ichhito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
