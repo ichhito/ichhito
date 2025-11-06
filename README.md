@@ -1,24 +1,24 @@
 # Hi there 👋 I'm Ichiro!
+![image](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 ---
 - 🎓 Computer Engineering student at **UVa** (University of Valladolid)
 - 📍 Based in **Spain**
 - 🌐 I speak **English**, **Spanish**, and **Japanese**
-- 💼 Currently looking for **internships**
 ---
-## 💻 Tech that I'm familiar with
-- **Programing languages**: Java, C, Python, JavaScript
-- **Frontend**: HTML, CSS
-- **Backend**: FastAPI
-- **Other**: UML
----
-## 💻 I know a bit about
-- SQL: MySQL, Postgre SQL
----
-## 📚 Personal projects:
+## 💻 Tech that I'm familiar with:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,fastapi,photoshop,mysql,postgresql,eclipse,vscode,notepad" />
+  </a>
+</p>
+
+## 📚 Projects:
+- 🏋️‍♀️[FitRevolution Web](https://github.com/ichhito/FitCommune-Web)
+  - Platform for tracking physical activity and diet while fostering social interaction through shared routines. Built with Vue.js, FastAPI and PostgreSQL.
 - 🚙[UVaTraficoBot (WIP)](https://github.com/ichhito/UVaTraficoBot)
-  - Telegram bot that stores and displays information about car accessibility to the University of Valladolid, based on user-reported data
+  - Telegram bot that stores and displays information about car accessibility to the University of Valladolid, based on user-reported data. Built with Python and MySQL.
 - 🀄[Riichi-Pucela (WIP)](https://github.com/ichhito/riichi-pucela-website)
-  - Website for Riichi-Pucela, designed to teach Riichi Mahjong for new players
+  - Website for Riichi-Pucela, designed to teach Riichi Mahjong for new players. Built with HTML and CSS.
 
 ---
 ## ☎️ Get in touch
