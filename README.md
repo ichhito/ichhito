@@ -4,9 +4,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ichiro-hitomi-619421205/)
 
-🎓 Computer Engineering student at **UVa** (University of Valladolid)
-📍  Based in **Spain**
-🌐 I speak **English**🇬🇧, **Spanish**🇪🇸, and **Japanese**🇯🇵
+*🎓 Computer Engineering student at **UVa** (University of Valladolid)
+* 📍  Based in **Spain**
+* 🌐 I speak **English**🇬🇧, **Spanish**🇪🇸, and **Japanese**🇯🇵
 
 ---
 
