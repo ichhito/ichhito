@@ -18,7 +18,7 @@
 | **Languages** | ![C](https://skillicons.dev/icons?i=c) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) |
 | **Frontend** | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Vue](https://skillicons.dev/icons?i=vue) |
 | **Backend & DB** | ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Postgres](https://skillicons.dev/icons?i=postgres) |
-| **Tools** | ![VSCode](https://skillicons.dev/icons?i=vscode) ![Photoshop](https://skillicons.dev/icons?i=ps) ![Git](https://skillicons.dev/icons?i=git) |
+| **Tools** | ![VSCode](https://skillicons.dev/icons?i=vscode) ![Photoshop](https://skillicons.dev/icons?i=ps) ![Git](https://skillicons.dev/icons?i=git) ![Eclipse](https://skillicons.dev/icons?i=eclipse)|
 
 </div>
 
