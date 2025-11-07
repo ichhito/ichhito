@@ -7,6 +7,7 @@
 🎓 Computer Engineering student at **UVa** (University of Valladolid) <br>
 📍  Based in **Spain** <br>
 🌐 I speak **English**🇬🇧, **Spanish**🇪🇸, and **Japanese**🇯🇵 <br>
+💼 Currently searching for **intern opportunities** <br>
 
 ---
 
