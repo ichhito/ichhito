@@ -31,6 +31,11 @@
 >
 > Platform for tracking physical activity and diet while fostering social interaction through shared routines. Built with Vue.js, FastAPI and PostgreSQL.
 
+## 📊 [Longest container calculator](https://github.com/ichhito/Practica2-ADA-2025)
+> **Tech:** `Java`
+>
+> Program using different algorithms to archive the best solution 
+
 ### 🚙 [UVaTraficoBot (WIP)](https://github.com/ichhito/UVaTraficoBot)
 > **Tech:** `Python` `MySQL` `Telegram API`
 >
