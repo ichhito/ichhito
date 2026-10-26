@@ -7,7 +7,7 @@
 🎓 Computer Engineering student at **UVa** (University of Valladolid) <br>
 📍  Based in **Spain** <br>
 🌐 I speak **English**🇬🇧, **Spanish**🇪🇸, and **Japanese**🇯🇵 <br>
-💼 Currently searching for **intern opportunities** <br>
+💼 Currently searching for **gamedev positions** <br>
 
 ---
 
@@ -36,15 +36,11 @@
 >
 > Program using different algorithms to archive the best solution 
 
-### 🚙 [UVaTraficoBot (WIP)](https://github.com/ichhito/UVaTraficoBot)
-> **Tech:** `Python` `MySQL` `Telegram API`
+### 🌀 [3D Maze](https://github.com/ichhito/UVaTraficoBot)
+> **Tech:** `JavaScript` `HTML` `CSS`
 >
-> Telegram bot that stores and displays information about car accessibility to the University of Valladolid, based on user-reported data. Built with Python and MySQL.
+> A first-person maze game built without any game engine or library - only HTML, CSS 3D transforms and vanilla JavaScript. Made during the 3D Game BIP course at Liepāja University (Latvia), 2026.
 
-### 🀄 [Riichi-Pucela (WIP)](https://github.com/ichhito/riichi-pucela-website)
-> **Tech:** `HTML` `CSS`
->
-> Website for Riichi-Pucela, designed to teach Riichi Mahjong for new players. Built with HTML and CSS.
 
 ---
 
