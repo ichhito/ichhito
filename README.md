@@ -36,7 +36,7 @@
 >
 > Program using different algorithms to archive the best solution 
 
-### 🌀 [3D Maze](https://github.com/ichhito/UVaTraficoBot)
+### 🌀 [3D Maze](https://github.com/ichhito/3dgame-liepaja-erasmus-2026)
 > **Tech:** `JavaScript` `HTML` `CSS`
 >
 > A first-person maze game built without any game engine or library - only HTML, CSS 3D transforms and vanilla JavaScript. Made during the 3D Game BIP course at Liepāja University (Latvia), 2026.
